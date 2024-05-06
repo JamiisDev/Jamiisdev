@@ -26,8 +26,3 @@ Eu sou a Jamille Ramalho 🖐️
 
 Minha paixão pela tecnologia é a força motriz que me impulsiona a explorar novos horizontes, explorar constantemente novas possibilidades e a aprimorar minhas habilidades.
 
-### Entre em contato comigo:
-
-- [Jamilleramalho188@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqVPGLjCXlqSSmMMVzKkssdrGgvVFvTRvNhVBvJSKtwkxZKrVtCPzCGNzlZBVhfDTsRvFg)</br>
-- [(11) 99731-4352](https://wa.me/5511997314952)</br>
-- [Jamis.Dev](https://www.instagram.com/jamis.dev?igsh=NG1sMnljNjI5ZTQw&utm_source=qr)</br>
