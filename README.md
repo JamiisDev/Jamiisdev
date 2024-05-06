@@ -5,7 +5,7 @@ Eu sou a Jamille Ramalho 🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamille-ramalho-29b2b1224/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamis.dev?igsh=NG1sMnljNjI5ZTQw&utm_source=qr)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqVPGLjCXlqSSmMMVzKkssdrGgvVFvTRvNhVBvJSKtwkxZKrVtCPzCGNzlZBVhfDTsRvFg)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://w.app/JamilleRamalho](https://api.whatsapp.com/send/?phone=5511997314952&text&type=phone_number&app_absent=0))
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511997314952)
 
 
 ![Jamis GitHub stats](https://github-readme-stats.vercel.app/api?username=JamiisDev&show_icons=true&theme=radical)
@@ -29,5 +29,5 @@ Minha paixão pela tecnologia é a força motriz que me impulsiona a explorar no
 ### Entre em contato comigo:
 
 - [Jamilleramalho188@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqVPGLjCXlqSSmMMVzKkssdrGgvVFvTRvNhVBvJSKtwkxZKrVtCPzCGNzlZBVhfDTsRvFg)</br>
-- [(11) 99731-4352]([https://w.app/JamilleRamalho](https://api.whatsapp.com/send/?phone=5511997314952&text&type=phone_number&app_absent=0))</br>
+- [(11) 99731-4352](https://wa.me/5511997314952)</br>
 - [Jamis.Dev](https://www.instagram.com/jamis.dev?igsh=NG1sMnljNjI5ZTQw&utm_source=qr)</br>
